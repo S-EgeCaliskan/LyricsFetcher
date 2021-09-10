@@ -1,5 +1,7 @@
 # LyricsFetcher
 
+Developed by Salim Ege Caliskan.
+
 LyricsFetcher is a small project I did scraping the website called azlyrics.com.
 
 The idea behind the program is to reduce the time spend searching for lyrics on the internet by scraping azlyrics through user input.
